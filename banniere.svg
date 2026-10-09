@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="t d">
   <title id="t">LOUIS</title>
-  <desc id="d">Développeur et builder IA, agents, automatisation et outils sur mesure</desc>
+  <desc id="d">Consultant IA et freelance, agents, automatisation et LLM en production</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#2f6bff"/>
@@ -24,6 +24,6 @@
   <path class="w w3" fill="#0b0b14" d="M0 378 q200 -35 400 0 t400 0 t400 0 t400 0 t400 0 t400 0 V400 H0Z"/>
   <g text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#ffffff">
     <text class="fade" x="800" y="175" font-size="128" font-weight="800" letter-spacing="10">LOUIS</text>
-    <text class="fade2" x="800" y="240" font-size="34" font-weight="500" fill-opacity="0.92">Développeur &amp; builder IA · agents, automatisation, outils sur mesure</text>
+    <text class="fade2" x="800" y="240" font-size="34" font-weight="500" fill-opacity="0.92">Consultant IA &amp; freelance · agents, automatisation, LLM en production</text>
   </g>
 </svg>
