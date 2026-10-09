@@ -3,16 +3,16 @@
 <p align="center">
   <a href="https://portfolio-louis-savon.netlify.app/fr/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
   <a href="https://linkedin.com/in/louis-savon-a46714354"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-louis%20savon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b14"></a>
-  <a href="mailto:louis.savon@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/EMAIL-louis.savon%40epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b14"></a>
+  <a href="mailto:louis.savon@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/EMAIL-contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b14"></a>
   <a href="https://github.com/LouiSvon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/LouiSvon?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0b0b14&color=2f6bff"></a>
 </p>
 
 # 💫 About me
 
-Student at **Epitech Marseille**, building web and macOS apps with **TypeScript** and **Swift**, with AI (Claude Code) in my daily workflow.
+I build web and macOS apps with **TypeScript** and **Swift**, with AI (Claude Code) in my daily workflow.
 
 - 🔭 Working on AI, Web3 and product ideas, from MVP to ship.
-- 🛠️ Freelance ventures on the side: I like turning an idea into something people can use.
+- 🛠️ Freelance ventures: I like turning an idea into something people can use.
 - 🌱 Learning: blockchain, LLM systems, agents and automation.
 - 🤝 Open to collaborations on software, blockchain and startup projects, and looking for mentors.
 - 💬 Ask me about Web3, crypto, coding and LLMs.
@@ -22,10 +22,10 @@ Student at **Epitech Marseille**, building web and macOS apps with **TypeScript*
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Digital member card for GDG Marseille (internship MVP) | TypeScript |
+| [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Digital member card for GDG Marseille | TypeScript |
 | [TokenTrex](https://github.com/LouiSvon/TokenTrex) | macOS menu bar app tracking Claude usage with a pixel-art T-Rex | Swift |
 | [Halo-widget](https://github.com/LouiSvon/Halo-widget) | Minimal macOS notch widget: Spotify now playing and Bluetooth devices | Swift |
-| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Job aggregator (Epitech project) | TypeScript |
+| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Job aggregator | TypeScript |
 | [life-in-weeks.widget](https://github.com/LouiSvon/life-in-weeks.widget) | Your life in weeks, as a macOS Übersicht widget | JavaScript |
 
 # 💻 Tech stack
