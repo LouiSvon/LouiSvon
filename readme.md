@@ -1,21 +1,65 @@
 <img src="banniere.svg" alt="Louis" width="100%">
 
-# 💫 About Me:
-🔭 Working on AI, Web3, and tech innovation projects.<br>👯 Open to collaborating on software, blockchain, and startup ideas.<br>🤝 Looking for mentors and strong technical collaborations.<br>🌱 Learning blockchain and AI systems,.<br>💬 Ask me about Web3, crypto, coding, and LLM.<br>⚡ Solo traveler across Europe and builder of multiple freelance ventures.
+<p align="center">
+  <a href="https://portfolio-louis-savon.netlify.app/fr/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
+  <a href="https://linkedin.com/in/louis-savon-a46714354"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-louis%20savon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b14"></a>
+  <a href="mailto:louis.savon@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/EMAIL-contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b14"></a>
+  <a href="https://github.com/LouiSvon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/LouiSvon?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0b0b14&color=2f6bff"></a>
+</p>
 
+# 💫 About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-savon-a46714354) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:louis.savon@epitech.eu) 
+I build web and macOS apps with **TypeScript** and **Swift**, with AI (Claude Code) in my daily workflow.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
+- 🔭 Working on AI, Web3 and product ideas, from MVP to ship.
+- 🛠️ Freelance ventures: I like turning an idea into something people can use.
+- 🌱 Learning: blockchain, LLM systems, agents and automation.
+- 🤝 Open to collaborations on software, blockchain and startup projects, and looking for mentors.
+- 💬 Ask me about Web3, crypto, coding and LLMs.
+- ⚡ Solo traveler across Europe.
+
+# 🚀 Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Digital member card for GDG Marseille | TypeScript |
+| [TokenTrex](https://github.com/LouiSvon/TokenTrex) | macOS menu bar app tracking Claude usage with a pixel-art T-Rex | Swift |
+| [Halo-widget](https://github.com/LouiSvon/Halo-widget) | Minimal macOS notch widget: Spotify now playing and Bluetooth devices | Swift |
+| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Job aggregator | TypeScript |
+| [life-in-weeks.widget](https://github.com/LouiSvon/life-in-weeks.widget) | Your life in weeks, as a macOS Übersicht widget | JavaScript |
+
+# 💻 Tech stack
+
+**Languages**<br>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0b14?style=for-the-badge&logo=typescript&logoColor=3178C6">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0b0b14?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="Swift" src="https://img.shields.io/badge/Swift-0b0b14?style=for-the-badge&logo=swift&logoColor=F05138">
+<img alt="Python" src="https://img.shields.io/badge/Python-0b0b14?style=for-the-badge&logo=python&logoColor=3776AB">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-0b0b14?style=for-the-badge&logo=php&logoColor=777BB4">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-0b0b14?style=for-the-badge&logo=rust&logoColor=ffffff">
+
+**Web**<br>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-0b0b14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b0b14?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
+<img alt="Express" src="https://img.shields.io/badge/Express-0b0b14?style=for-the-badge&logo=express&logoColor=ffffff">
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-0b0b14?style=for-the-badge&logo=wordpress&logoColor=21759B">
+
+**Tools**<br>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0b0b14?style=for-the-badge&logo=claude&logoColor=D97757">
+<img alt="Git" src="https://img.shields.io/badge/Git-0b0b14?style=for-the-badge&logo=git&logoColor=F05032">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0b0b14?style=for-the-badge&logo=github&logoColor=ffffff">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0b0b14?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-0b0b14?style=for-the-badge&logo=figma&logoColor=F24E1E">
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-0b0b14?style=for-the-badge&logo=netlify&logoColor=00C7B7">
+
+# 📊 GitHub stats
+
 ![](https://github-readme-stats.shion.dev/api?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=LouiSvon&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🐍 Contributions
 
-# 🐍 Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouiSvon/LouiSvon/output/github-snake-dark.svg">
   <img alt="Serpent des contributions" src="https://raw.githubusercontent.com/LouiSvon/LouiSvon/output/github-snake.svg" width="100%">
