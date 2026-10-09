@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="t d">
+  <title id="t">LOUIS</title>
+  <desc id="d">Développeur et builder IA, agents, automatisation et outils sur mesure</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6bff"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#0b0b14"/>
+    </linearGradient>
+    <style>
+      .fade { opacity: 0; animation: fade 1.2s ease-out .1s forwards; }
+      .fade2 { opacity: 0; animation: fade 1.2s ease-out .5s forwards; }
+      @keyframes fade { to { opacity: 1; } }
+      .w { animation: drift linear infinite; }
+      .w1 { animation-duration: 14s; }
+      .w2 { animation-duration: 9s; animation-direction: reverse; }
+      .w3 { animation-duration: 6s; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-800px); } }
+    </style>
+  </defs>
+  <rect width="1600" height="400" fill="url(#bg)"/>
+  <path class="w w1" fill="#0b0b14" fill-opacity="0.35" d="M0 290 q200 -70 400 0 t400 0 t400 0 t400 0 t400 0 t400 0 V400 H0Z"/>
+  <path class="w w2" fill="#0b0b14" fill-opacity="0.65" d="M0 335 q200 -55 400 0 t400 0 t400 0 t400 0 t400 0 t400 0 V400 H0Z"/>
+  <path class="w w3" fill="#0b0b14" d="M0 378 q200 -35 400 0 t400 0 t400 0 t400 0 t400 0 t400 0 V400 H0Z"/>
+  <g text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text class="fade" x="800" y="175" font-size="128" font-weight="800" letter-spacing="10">LOUIS</text>
+    <text class="fade2" x="800" y="240" font-size="34" font-weight="500" fill-opacity="0.92">Développeur &amp; builder IA · agents, automatisation, outils sur mesure</text>
+  </g>
+</svg>

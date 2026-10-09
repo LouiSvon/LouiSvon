@@ -1,3 +1,5 @@
+<img src="banniere.svg" alt="Louis" width="100%">
+
 # 💫 About Me:
 🔭 Working on AI, Web3, and tech innovation projects.<br>👯 Open to collaborating on software, blockchain, and startup ideas.<br>🤝 Looking for mentors and strong technical collaborations.<br>🌱 Learning blockchain and AI systems,.<br>💬 Ask me about Web3, crypto, coding, and LLM.<br>⚡ Solo traveler across Europe and builder of multiple freelance ventures.
 
@@ -11,3 +13,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=LouiSvon&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+# 🐍 Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouiSvon/LouiSvon/output/github-snake-dark.svg">
+  <img alt="Serpent des contributions" src="https://raw.githubusercontent.com/LouiSvon/LouiSvon/output/github-snake.svg" width="100%">
+</picture>
