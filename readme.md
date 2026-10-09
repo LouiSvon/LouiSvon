@@ -35,15 +35,15 @@ J'aide les équipes à passer d'une idée IA à un outil qui tourne, avec un ré
 | [TokenTrex](https://github.com/LouiSvon/TokenTrex) | Piloter sa consommation de tokens Claude sans ouvrir un navigateur | App de barre de menu macOS, avec un T-Rex animé selon l'usage en temps réel | Swift |
 | [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Centraliser des offres d'emploi dispersées | Plateforme full-stack avec authentification, espace admin et déploiement Docker | Next.js, TypeScript, PostgreSQL, Docker |
 
-# 💻 Outils
+# 💻 Stack
 
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0b0b14?style=for-the-badge&logo=claude&logoColor=D97757">
-<img alt="Python" src="https://img.shields.io/badge/Python-0b0b14?style=for-the-badge&logo=python&logoColor=3776AB">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0b14?style=for-the-badge&logo=typescript&logoColor=3178C6">
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-0b0b14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b0b14?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-0b0b14?style=for-the-badge&logo=docker&logoColor=2496ED">
-<img alt="Swift" src="https://img.shields.io/badge/Swift-0b0b14?style=for-the-badge&logo=swift&logoColor=F05138">
+**IA et LLM**
+
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0b0b14?style=for-the-badge&logo=claude&logoColor=D97757"> <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-0b0b14?style=for-the-badge&logo=anthropic&logoColor=D97757"> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-0b0b14?style=for-the-badge&logo=huggingface&logoColor=FFD21E"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0b0b14?style=for-the-badge&logo=ollama&logoColor=ffffff"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0b0b14?style=for-the-badge"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-0b0b14?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0b0b14?style=for-the-badge&logo=langchain&logoColor=7FD8BE"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0b0b14?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0b0b14?style=for-the-badge&logo=modelcontextprotocol&logoColor=ffffff">
+
+**Développement**
+
+<img alt="Python" src="https://img.shields.io/badge/Python-0b0b14?style=for-the-badge&logo=python&logoColor=3776AB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0b14?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0b0b14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b0b14?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"> <img alt="Docker" src="https://img.shields.io/badge/Docker-0b0b14?style=for-the-badge&logo=docker&logoColor=2496ED"> <img alt="Swift" src="https://img.shields.io/badge/Swift-0b0b14?style=for-the-badge&logo=swift&logoColor=F05138">
 
 # 🤝 Travaillons ensemble
 
