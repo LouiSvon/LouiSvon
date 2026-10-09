@@ -52,12 +52,6 @@ I build web and macOS apps with **TypeScript** and **Swift**, with AI (Claude Co
 <img alt="Figma" src="https://img.shields.io/badge/Figma-0b0b14?style=for-the-badge&logo=figma&logoColor=F24E1E">
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-0b0b14?style=for-the-badge&logo=netlify&logoColor=00C7B7">
 
-# 📊 GitHub stats
-
-![](https://github-readme-stats.shion.dev/api?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LouiSvon&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LouiSvon&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 # 🐍 Contributions
 
 <picture>
