@@ -1,4 +1,4 @@
-<img src="banniere.svg" alt="Louis, consultant IA et freelance" width="100%">
+<img src="banniere.svg" alt="Louis, étudiant en IA" width="100%">
 
 <p align="center">
   <a href="https://portfolio-louis-savon.netlify.app/fr/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
