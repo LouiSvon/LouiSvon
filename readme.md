@@ -24,7 +24,6 @@ Basé à Marseille, mobile en France.
 | [cvrie](https://github.com/LouiSvon/cvrie) | Projet d'IA médicale : classification de cellules sanguines (F1 macro 0,850 sur le jeu de test) et regroupement de 1011 témoignages de patients | Python, scikit-learn, pandas | 2 personnes |
 | [nextbuy](https://github.com/LouiSvon/nextbuy) | Analyse de données e-commerce : segmentation de clients et prédiction de la taille du panier (Random Forest, R² 0,54) | Python, scikit-learn, pandas | 2 personnes |
 | [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Carte de membre numérique pour GDG Marseille, avec QR code signé HMAC (MVP, non déployé) | Next.js, TypeScript, Supabase | Seul développeur |
-| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Agrégateur d'offres d'emploi avec recherche plein texte et filtres | Next.js, TypeScript, PostgreSQL, Docker | 4 personnes (frontend, backend, API) |
 | [claude-code-mods](https://github.com/LouiSvon/claude-code-mods) | Deux mods pour l'application Claude Code (barre des tâches des agents, ligne d'état) | TypeScript | Seul auteur (14 commits) |
 
 # Certifications
