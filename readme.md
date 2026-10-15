@@ -1,55 +1,57 @@
-<img src="banniere.svg" alt="Louis, étudiant en IA" width="100%">
+<img src="banniere.svg" alt="Louis Savon, étudiant en informatique. Je cherche un stage en conseil IA à partir d'avril 2027" width="100%">
 
 <p align="center">
-  <a href="https://portfolio-louis-savon.netlify.app/fr/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
+  <a href="https://louis-savon.netlify.app/fr"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
   <a href="https://linkedin.com/in/louis-savon-a46714354"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-louis%20savon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b14"></a>
-  <a href="mailto:louis.savon@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/EMAIL-me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0b14"></a>
-  <img alt="Freelance" src="https://img.shields.io/badge/FREELANCE-missions%20IA-2f6bff?style=for-the-badge&labelColor=0b0b14">
 </p>
 
-> **EN:** AI consultant and freelance developer. I help teams turn an AI idea into a tool that runs: scoping, fast prototype, agents and automation, delivered and documented.
+> **FR :** Étudiant en informatique à Epitech Marseille (Bachelor, spécialisation IA). Je cherche un stage en conseil IA à partir d'avril 2027, puis une alternance en 2028.
+>
+> **EN:** Computer science student at Epitech Marseille (Bachelor, AI track). I am looking for an AI consulting internship from April 2027, then a work-study contract in 2028.
 
-# 🎯 Ce que je fais
+Basé à Marseille, mobile en France.
 
-J'aide les équipes à passer d'une idée IA à un outil qui tourne, avec un résultat mesurable.
+# Ce que je cherche
 
-| Mission | Ce que vous obtenez |
-| --- | --- |
-| **Cadrage d'un cas d'usage IA** | Où un LLM ou un agent apporte un gain réel, et où il n'en apporte pas. Un périmètre, des critères de réussite, un coût estimé. |
-| **Prototype / MVP rapide** | Un outil utilisable en quelques jours (web, TypeScript ou Python), pas une maquette. |
-| **Agents et automatisation** | Des tâches répétitives confiées à des agents, avec garde-fous, journalisation et reprise en cas d'erreur. |
-| **Assistants de code en équipe** | Une méthode pour utiliser Claude Code sans perdre en qualité : spécification, vérification, relecture. |
+- **Stage** en conseil IA à partir d'avril 2027, chez un cabinet de conseil (Marseille de préférence).
+- **Alternance** pour la dernière année de Bachelor, en 2028.
+- Pratiques visées : data et IA, sécurité et confiance dans les systèmes d'IA.
 
-# 🧭 Ma méthode
+# Projets, classés par intérêt pour le conseil IA
 
-1. **Cadrer** : le but et des critères de réussite vérifiables, écrits avant de coder.
-2. **Prototyper** : le plus petit changement qui tient, livré vite pour avoir un retour réel.
-3. **Vérifier** : tests exécutés, relecture à contexte neuf, aucune affirmation sans preuve.
-4. **Livrer** : documentation, passation, et ce qui reste à faire de façon explicite.
-
-# 🚀 Réalisations
-
-| Projet | Besoin | Solution | Stack |
+| Projet | Ce que c'est | Stack | Équipe |
 | --- | --- | --- | --- |
-| [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Prouver une adhésion sans papier ni fraude simple | Carte de membre digitale avec QR code de vérification signé HMAC | Next.js, TypeScript, Supabase |
-| [TokenTrex](https://github.com/LouiSvon/TokenTrex) | Piloter sa consommation de tokens Claude sans ouvrir un navigateur | App de barre de menu macOS, avec un T-Rex animé selon l'usage en temps réel | Swift |
-| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Centraliser des offres d'emploi dispersées | Plateforme full-stack avec authentification, espace admin et déploiement Docker | Next.js, TypeScript, PostgreSQL, Docker |
+| [cvrie](https://github.com/LouiSvon/cvrie) | Projet d'IA médicale : classification de cellules sanguines (F1 macro 0,850 sur le jeu de test) et regroupement de 1011 témoignages de patients | Python, scikit-learn, pandas | 2 personnes |
+| [nextbuy](https://github.com/LouiSvon/nextbuy) | Analyse de données e-commerce : segmentation de clients et prédiction de la taille du panier (Random Forest, R² 0,54) | Python, scikit-learn, pandas | 2 personnes |
+| [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Carte de membre numérique pour GDG Marseille, avec QR code signé HMAC (MVP, non déployé) | Next.js, TypeScript, Supabase | Seul développeur |
+| [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Agrégateur d'offres d'emploi avec recherche plein texte et filtres | Next.js, TypeScript, PostgreSQL, Docker | 4 personnes (frontend, backend, API) |
+| [claude-code-mods](https://github.com/LouiSvon/claude-code-mods) | Deux mods pour l'application Claude Code (barre des tâches des agents, ligne d'état) | TypeScript | Seul auteur (14 commits) |
 
-# 💻 Stack
+# Formation
 
-**IA et LLM**
+**Bachelor informatique, spécialisation IA**, Epitech Marseille, 2025-2028 (2e année).
+Baccalauréat professionnel commerce, 2023.
 
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0b0b14?style=for-the-badge&logo=claude&logoColor=D97757"> <img alt="Anthropic API" src="https://img.shields.io/badge/Anthropic%20API-0b0b14?style=for-the-badge&logo=anthropic&logoColor=D97757"> <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-0b0b14?style=for-the-badge&logo=huggingface&logoColor=FFD21E"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-0b0b14?style=for-the-badge&logo=ollama&logoColor=ffffff"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0b0b14?style=for-the-badge"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-0b0b14?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0b0b14?style=for-the-badge&logo=langchain&logoColor=7FD8BE"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0b0b14?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> <img alt="MCP" src="https://img.shields.io/badge/MCP-0b0b14?style=for-the-badge&logo=modelcontextprotocol&logoColor=ffffff">
+# Certifications
 
-**Développement**
+- [Google Prompting Essentials](https://coursera.org/verify/specialization/GWDZRQ7LQT10) (Google, via Coursera), mars 2026
+- [Update Your Online Security](https://planb.academy/fr/exam-certificates/5777c4b7-6ff9-487b-a5d5-2a5467340fde) (Plan ₿ Network), mars 2026
+- [Bitcoin Wallet Architecture](https://planb.academy/fr/exam-certificates/37221242-063c-4bf3-aee7-492d64df3619) (Plan ₿ Network), mars 2026
+- [Notion Workflows Quiz](https://verify.skilljar.com/c/ego5gaa7iz2h) (Notion), avril 2026
 
-<img alt="Python" src="https://img.shields.io/badge/Python-0b0b14?style=for-the-badge&logo=python&logoColor=3776AB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0b0b14?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0b0b14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b0b14?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"> <img alt="Docker" src="https://img.shields.io/badge/Docker-0b0b14?style=for-the-badge&logo=docker&logoColor=2496ED"> <img alt="Swift" src="https://img.shields.io/badge/Swift-0b0b14?style=for-the-badge&logo=swift&logoColor=F05138">
+# Compétences
 
-# 🤝 Travaillons ensemble
+**Pratiquées** : TypeScript, React, Next.js, PostgreSQL, Docker, Git, Swift, Python, Claude Code.
 
-Une idée, un processus à automatiser, une équipe à outiller : écrivez-moi avec le contexte en deux lignes, je réponds avec un premier cadrage.
+**En apprentissage** : cadrage de cas d'usage IA, AI Act, OWASP LLM Top 10, évaluation de RAG.
 
-# 🐍 Contributions
+**Langues** : français (natif), anglais (B1).
+
+# Me contacter
+
+Je cherche un stage en conseil IA à partir d'avril 2027. Écrivez-moi sur LinkedIn ou par email.
+
+# Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouiSvon/LouiSvon/output/github-snake-dark.svg">
