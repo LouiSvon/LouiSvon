@@ -1,4 +1,4 @@
-<img src="banniere.svg" alt="Louis Savon, étudiant en informatique. Je cherche un stage en conseil IA à partir d'avril 2027" width="100%">
+<img src="banniere.svg?v=2" alt="Louis Savon, étudiant en informatique. Je cherche un stage en conseil IA à partir d'avril 2027" width="100%">
 
 <p align="center">
   <a href="https://louis-savon.netlify.app/fr"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-louis--savon-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b0b14"></a>
