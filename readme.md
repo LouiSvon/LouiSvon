@@ -9,7 +9,15 @@
 >
 > **EN:** Computer science student at Epitech Marseille (Bachelor, AI track). I am looking for an AI consulting internship from April 2027, then a work-study contract in 2028.
 
-# Projets
+Basé à Marseille, mobile en France.
+
+# Ce que je cherche
+
+- **Stage** en conseil IA à partir d'avril 2027, chez un cabinet de conseil (Marseille de préférence).
+- **Alternance** pour la dernière année de Bachelor, en 2028.
+- Pratiques visées : data et IA, sécurité et confiance dans les systèmes d'IA.
+
+# Projets, classés par intérêt pour le conseil IA
 
 | Projet | Ce que c'est | Stack | Équipe |
 | --- | --- | --- | --- |
@@ -19,11 +27,25 @@
 | [jobaggregator](https://github.com/LouiSvon/jobaggregator) | Agrégateur d'offres d'emploi avec recherche plein texte et filtres | Next.js, TypeScript, PostgreSQL, Docker | 4 personnes (frontend, backend, API) |
 | [claude-code-mods](https://github.com/LouiSvon/claude-code-mods) | Deux mods pour l'application Claude Code (barre des tâches des agents, ligne d'état) | TypeScript | Seul auteur (14 commits) |
 
+# Formation
+
+**Bachelor informatique, spécialisation IA**, Epitech Marseille, 2025-2028 (2e année).
+Baccalauréat professionnel commerce, 2023.
+
+# Certifications
+
+- [Google Prompting Essentials](https://coursera.org/verify/specialization/GWDZRQ7LQT10) (Google, via Coursera), mars 2026
+- [Update Your Online Security](https://planb.academy/fr/exam-certificates/5777c4b7-6ff9-487b-a5d5-2a5467340fde) (Plan ₿ Network), mars 2026
+- [Bitcoin Wallet Architecture](https://planb.academy/fr/exam-certificates/37221242-063c-4bf3-aee7-492d64df3619) (Plan ₿ Network), mars 2026
+- [Notion Workflows Quiz](https://verify.skilljar.com/c/ego5gaa7iz2h) (Notion), avril 2026
+
 # Compétences
 
 **Pratiquées** : TypeScript, React, Next.js, PostgreSQL, Docker, Git, Swift, Python, Claude Code.
 
 **En apprentissage** : cadrage de cas d'usage IA, AI Act, OWASP LLM Top 10, évaluation de RAG.
+
+**Langues** : français (natif), anglais (B1).
 
 # Me contacter
 
