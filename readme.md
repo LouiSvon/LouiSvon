@@ -5,22 +5,23 @@
   <a href="https://linkedin.com/in/louis-savon-a46714354"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-louis%20savon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b14"></a>
 </p>
 
-> **FR :** Étudiant en informatique à Epitech Marseille (Bachelor, spécialisation IA). Je cherche un stage en conseil IA à partir d'avril 2027, puis une alternance en 2028.
+> **FR :** Étudiant en informatique à Epitech Marseille (Bachelor, spécialisation IA). Je cherche un stage en conseil IA à partir d'avril 2027, puis une alternance dès septembre 2027.
 >
-> **EN:** Computer science student at Epitech Marseille (Bachelor, AI track). I am looking for an AI consulting internship from April 2027, then a work-study contract in 2028.
+> **EN:** Computer science student at Epitech Marseille (Bachelor, AI track). I am looking for an AI consulting internship from April 2027, then a work-study contract from September 2027.
 
 Basé à Marseille, mobile en France.
 
 # Ce que je cherche
 
 - **Stage** en conseil IA à partir d'avril 2027, chez un cabinet de conseil (Marseille de préférence).
-- **Alternance** pour la dernière année de Bachelor, en 2028.
+- **Alternance** pour la dernière année de Bachelor, dès septembre 2027, pour un an.
 - Pratiques visées : data et IA, sécurité et confiance dans les systèmes d'IA.
 
 # Projets, classés par intérêt pour le conseil IA
 
 | Projet | Ce que c'est | Stack | Équipe |
 | --- | --- | --- | --- |
+| [veille-mica](https://github.com/LouiSvon/veille-mica) | Assistant RAG local de veille réglementaire sur les crypto-actifs (MiCA) : cite le texte officiel et refuse de répondre hors corpus. Évaluation mesurée : 22 réponses justes sur 27 questions du jeu de test | Python, FastAPI, Next.js, Ollama | Seul auteur, avec l'aide de Claude |
 | [cvrie](https://github.com/LouiSvon/cvrie) | Projet d'IA médicale : classification de cellules sanguines (F1 macro 0,850 sur le jeu de test) et regroupement de 1011 témoignages de patients | Python, scikit-learn, pandas | 2 personnes |
 | [nextbuy](https://github.com/LouiSvon/nextbuy) | Analyse de données e-commerce : segmentation de clients et prédiction de la taille du panier (Random Forest, R² 0,54) | Python, scikit-learn, pandas | 2 personnes |
 | [pass-gdg](https://github.com/LouiSvon/pass-gdg) | Carte de membre numérique pour GDG Marseille, avec QR code signé HMAC (MVP, non déployé) | Next.js, TypeScript, Supabase | Seul développeur |
