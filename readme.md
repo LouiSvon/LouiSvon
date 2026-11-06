@@ -21,6 +21,7 @@ Basé à Marseille, mobile en France.
 
 | Projet | Ce que c'est | Stack | Équipe |
 | --- | --- | --- | --- |
+| [p1-cadrage-ia-metropole-azur](https://github.com/LouiSvon/p1-cadrage-ia-metropole-azur) | Dossier de conseil sur un client fictif : cadrage d'un assistant IA documentaire pour une collectivité. 4 options comparées, classement AI Act, 14 risques (OWASP LLM, NIST), business case en fourchettes. Exercice, hypothèses déclarées | Markdown, Python (calculs) | Seul auteur |
 | [veille-mica](https://github.com/LouiSvon/veille-mica) | Assistant RAG local de veille réglementaire sur les crypto-actifs (MiCA) : cite le texte officiel et refuse de répondre hors corpus. Évaluation mesurée : 22 réponses justes sur 27 questions du jeu de test | Python, FastAPI, Next.js, Ollama | Seul auteur, avec l'aide de Claude |
 | [cvrie](https://github.com/LouiSvon/cvrie) | Projet d'IA médicale : classification de cellules sanguines (F1 macro 0,850 sur le jeu de test) et regroupement de 1011 témoignages de patients | Python, scikit-learn, pandas | 2 personnes |
 | [nextbuy](https://github.com/LouiSvon/nextbuy) | Analyse de données e-commerce : segmentation de clients et prédiction de la taille du panier (Random Forest, R² 0,54) | Python, scikit-learn, pandas | 2 personnes |
